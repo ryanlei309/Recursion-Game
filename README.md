@@ -6,6 +6,7 @@ This file practices the basic knowledge of Recursion by completing the game of a
 -> If user inputs a word, this program helps you find out all the anagrams of the words.
 
 Input: stop
+
 Anagrams:[stop, spot, top, opts, post, pots]
 
 (2) Sierpinski
